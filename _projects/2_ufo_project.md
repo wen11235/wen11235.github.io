@@ -8,6 +8,7 @@ custom_js:
   - vega-lite.min
   - vega-embed.min
   - justcharts
+permalink: /projects/2-ufo-project/index.html
 ---
 
 ## HW5: UFO Sightings in the United States Visualization
