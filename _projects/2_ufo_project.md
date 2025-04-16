@@ -13,7 +13,7 @@ permalink: /projects/2-ufo-project/index.html
 
 ## HW5: UFO Sightings in the United States Visualization
 
-This project presents two visualizations created using Python + Altair based on the BFRO Bigfoot sightings dataset.
+This project presents two visualizations created using Python + Altair based on the UFO sightings dataset.
 
 
 ---
